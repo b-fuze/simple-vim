@@ -19,6 +19,9 @@ You can always know what mode you are in by looking at the _bottom-left corner_.
 
 ## Editing text
 
+### Type/insert text
+Press `i` (lowercase i)
+
 ### Delete selected text
 Press `x`
 
