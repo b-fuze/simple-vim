@@ -38,25 +38,25 @@ Press `P` (uppercase P, in normal mode to paste directly at the cursor, lowercas
 Open a terminal with `:ter` in normal mode (read below for more details)
 
 ### Run Vim commands in a terminal
-Press `Ctrl-W` to run Vim commands inside a terminal
+Press `Ctrl-W` to run Vim commands when inside a terminal
 
-### How to scroll a terminal with a mouse
+### Scrolling a terminal with a mouse
 Press `Ctrl-W` then `N` (uppercase N), then you'll be able scroll and select text in your terminal. **Press `i` (lowercase i) to go back to normal terminal mode**.
 
 ## View splits/windows
-Splitting new panes into files and terminals are different, consult the respective section.
+Splitting new panes into files and terminals are different commands, consult the respective section.
 
 ### Splitting file editing windows
 
 #### Side-by-side
-To split side-by-side press type the following in normal mode `:`
+To split side-by-side press type the following in normal mode
 ```
 :vsplit
 ```
 (`:vs` is a shorthand)
 
 #### Split into top and bottom
-To split into a top and bottom type the following in normal mode `:`
+To split into a top and bottom type the following in normal mode
 ```
 :split
 ```
