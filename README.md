@@ -9,6 +9,8 @@ When you first enter Vim type `:` (colon) and then the following:
 set mouse=a
 ```
 
+Then you should be able to select text and scroll with your mouse like in normal text editors. It's also great for resizing windows/splits.
+
 ## Modes
 
 Vim has three modes: normal mode (to run commands), insert mode (to type text), and visual mode (to select text, etc)
