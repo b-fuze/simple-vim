@@ -39,6 +39,7 @@ Press `Ctrl-W` to run Vim commands inside a terminal
 Press `Ctrl-W` then `N` (uppercase N), then you'll be able scroll and select text in your terminal. **Press `i` (lowercase i) to go back to normal terminal mode**.
 
 ## View splits/windows
+Splitting new panes into files and terminals are different, consult the respective section.
 
 ### Splitting file editing windows
 
@@ -72,5 +73,5 @@ Type the following in normal mode
 ```
 (`:vert ter` is a shorthand)
 
-<!-- vim:set textwidth=0: -->
+<!-- vim:set textwidth=0 wrap: -->
 
